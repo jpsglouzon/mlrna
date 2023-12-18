@@ -2,14 +2,14 @@
 Lists of models and tools based on Machine Learning to solve problems related to RNA structure prediction, representation, classification, and many more
 
 **Table of contents**
-1. [RNA secondary structures prediction](https://github.com/jpsglouzon/mlrna/edit/main/README.md#rna-secondary-structures-prediction)
+1. [RNA secondary structure prediction](https://github.com/jpsglouzon/mlrna/edit/main/README.md#rna-secondary-structure-prediction)
 2. [RNA representation](https://github.com/jpsglouzon/mlrna/edit/main/README.md#rna-representation)
-3. [RNA classification Example](https://github.com/jpsglouzon/mlrna/edit/main/README.md#rna-representation)
-4. [RNA clustering](https://github.com/jpsglouzon/mlrna/edit/main/README.md#deep-learning-approaches)
-5. [RNA therapeutics and diagnostics](https://github.com/jpsglouzon/mlrna/edit/main/README.md#rna-representation)
+3. [RNA classification](https://github.com/jpsglouzon/mlrna#rna-classification)
+4. [RNA clustering](https://github.com/jpsglouzon/mlrna#rna-clustering)
+5. [RNA therapeutics and diagnostics](https://github.com/jpsglouzon/mlrna#rna-therapeutics-and-diagnostics)
 6. [Tools and webservers](https://github.com/jpsglouzon/mlrna#tools)
 
-## RNA secondary structures prediction
+## RNA secondary structure prediction
 
 ### Deep Learning approaches
 - [Sequence similarity governs generalizability of de novo deep learning models for RNA secondary structure prediction](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011047): "...Model generalizability, i.e., the performance gap between the seen and unseen sets, degrades rapidly as the sequence similarity decreases....  Generalizability thus poses a major hurdle for deploying de novo DL models in practice and various pathways for future advances are discussed."
