@@ -2,12 +2,12 @@
 Lists of models and tools based on Machine Learning to solve problems related to RNA structure prediction, representation, classification, and many more
 
 **Table of contents**
-1. [RNA secondary structure prediction](https://github.com/jpsglouzon/mlrna/edit/main/README.md#rna-secondary-structure-prediction)
-2. [RNA representation](https://github.com/jpsglouzon/mlrna/edit/main/README.md#rna-representation)
+1. [RNA secondary structure prediction](https://github.com/jpsglouzon/mlrna#rna-secondary-structure-prediction)
+2. [RNA representation](https://github.com/jpsglouzon/mlrna#rna-representation)
 3. [RNA classification](https://github.com/jpsglouzon/mlrna#rna-classification)
 4. [RNA clustering](https://github.com/jpsglouzon/mlrna#rna-clustering)
 5. [RNA therapeutics and diagnostics](https://github.com/jpsglouzon/mlrna#rna-therapeutics-and-diagnostics)
-6. [Tools and webservers](https://github.com/jpsglouzon/mlrna#tools)
+6. [Tools and webservers](https://github.com/jpsglouzon/mlrna#tools-and-webservers)
 
 ## RNA secondary structure prediction
 
